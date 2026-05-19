@@ -74,9 +74,9 @@ function App() {
 
       {/* Footer */}
       <footer className="mt-12 py-6 text-center border-t border-white/10">
-        <p className="text-white/40 text-sm">
-          🌍 Weather data provided by OpenWeatherMap • Real-time updates • Free API
-        </p>
+       <p className="text-white/40 text-sm">
+  🌍 Weather data provided by OpenWeatherMap | Created by <strong className="text-amber-400">Faraz Shahbaz</strong>
+</p>
         <p className="text-white/30 text-xs mt-2">
           © 2025 WeatherPro | Your Personal Weather Companion
         </p>

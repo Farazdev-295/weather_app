@@ -12,7 +12,7 @@ const Navbar = ({ onRefresh }) => {
             <WiDaySunny className="text-3xl md:text-4xl text-amber-400 animate-float" />
             <div>
               <span className="text-xl md:text-2xl font-extrabold bg-gradient-to-r from-white to-amber-400 bg-clip-text text-transparent">
-                Weather<span className="text-amber-400">Pro</span>
+               Faraz's <span className="text-amber-400">WeatherPro</span>
               </span>
               <p className="text-white/40 text-xs hidden sm:block">Real-time Weather Updates</p>
             </div>
